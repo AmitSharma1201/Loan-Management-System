@@ -1,0 +1,7 @@
+body {
+    background-color: aliceblue;
+}
+
+div.minheight {
+    min-height: 400px;
+}

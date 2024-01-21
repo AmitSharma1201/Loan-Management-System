@@ -1,0 +1,8 @@
+body{
+    background-color:rgb(159, 75, 74);
+}
+
+div.minheight{
+    min-height: 200px;
+
+}

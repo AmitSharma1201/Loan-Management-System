@@ -1,0 +1,236 @@
+
+27-07-22u6373--update emp1 set resume_path1='upload\16.heic' where id='16'
+27-07-22u1512--Resume uploading error
+27-07-22u3917--update emp1 set resume_path='upload\resume\.heic' where id=''
+27-07-22u5136--update emp1 set resume_path='upload\resume\17.heic' where id='17'
+27-07-22u6767--update emp1 set resume_path='upload\resume\17.jpg' where id='17'
+27-07-22u1521--update emp1 set resume_path='upload\resume\18.heic' where id='18'
+27-07-22u6215--INSERT INTO `emp1` (`employee_Name`, `HigherQualification`, `marital`, `password`, `gender`, `Address`,email, `contact_number`, `dateofbirth`) values('098','10th','married','098','others','089098','098','0898008','098')
+27-07-22u6067--INSERT INTO `emp1` (`employee_Name`, `Higher_Qualification`, `marital`, `password`, `gender`, `Address`,email, `contact_number`, `dateofbirth`) values('jhokl','10th','married','l;jh','others','l;hjl','jklh;;l','hl;i','lkhg')
+27-07-22u5031--INSERT INTO `emp1` (`employee_Name`, `Higher_Qualification`, `marital`, `password`, `gender`, `Address`,email, `contact_number`, `dateofbirth`) values('jhokl','10th','married','','others','l;hjl','jklh;;l','hl;i','565')
+27-07-22u8636--INSERT INTO `emp1` (`employee_Name`, `Higher_Qualification`, `marital`, `password`, `gender`, `Address`,email, `contact_number`, `dateofbirth`) values('jhokl','10th','married','','others','l;hjl','jklh;;l','hl;i','5654')
+27-07-22u2915--update emp1 set resume_path='upload/resume/0.docx',image_path='upload/image/0.jpeg' where id='0'
+27-07-22u7508--update emp1 set resume_path='upload/resume/0.docx',image_path='upload/image/0.jpeg' where id='0'
+27-07-22u2225--update emp1 set resume_path='upload/resume/0.docx',image_path='upload/image/0.jpeg' where id='0'
+27-07-22u1812--update emp1 set resume_path='upload/resume/0.docx',image_path='upload/image/0.jpeg' where id='0'
+27-07-22u7148--INSERT INTO `emp1` (`employee_Name`, `Higher_Qualification`, `marital`, `password`, `gender`, `Address`,email, `contact_number`, `dateofbirth`) values('sfgh','10th','married','zcfbh','others','dvgzH','fzbx','fbzXHNj','szfbh')
+27-07-22u5115--INSERT INTO `emp1` (`employee_Name`, `Higher_Qualification`, `marital`, `password`, `gender`, `Address`,email, `contact_number`, `dateofbirth`) values('sfgh','10th','married','szfhnj','others','dvgzH','fzbx','fbzXHNj','szfbh')
+27-07-22u1436--update emp1 set resume_path='upload/resume/0.jpeg',image_path='upload/image/0.docx' where id='0'
+27-07-22u1051--update emp1 set resume_path='upload/resume/0.docx',image_path='upload/image/0.docx' where id='0'
+27-07-22u4391--update emp1 set resume_path='upload/resume/0.docx',image_path='upload/image/0.jpg' where id='0'
+27-07-22u3274--INSERT INTO `emp1` (`employee_Name`, `Higher_Qualification`, `marital`, `password`, `gender`, `Address`,email, `contact_number`, `dateofbirth`) values('ੁਪ੍','10th','married','ਿਪੇੰਲ','others','ਨਵਿ','gxzf','c','੍੍ਿ')
+27-07-22u4141--INSERT INTO `emp1` (`employee_Name`, `Higher_Qualification`, `marital`, `password`, `gender`, `Address`,email, `contact_number`, `dateofbirth`) values('fdhg','10th','married','12345','others','ਨਵਿ','gxzf','c','rh')
+27-07-22u8023--INSERT INTO `emp1` (`employee_Name`, `Higher_Qualification`, `marital`, `password`, `gender`, `Address`,email, `contact_number`, `dateofbirth`) values('fdhg','10th','married','','others','fvbg','gxzf','c','rh')
+27-07-22u4055--update emp1 set resume_path='upload/resume/0.docx',image_path='upload/image/0.jpeg' where id='0'
+27-07-22u6847--update emp1 set resume_path='upload/resume/0.docx',image_path='upload/image/0.jpeg' where id='0'
+27-07-22u2094--Resume uploading error
+27-07-22u2971--Resume uploading error
+27-07-22u2929--update emp1 set resume_path='',image_path='' where id='0'
+27-07-22u5405--INSERT INTO `emp1` (`employee_Name`, `Higher_Qualification`, `marital`, `password`, `gender`, `Address`,email, `contact_number`, `dateofbirth`) values('fdhg','10th','married','cgxnj','others','fvbg','gxzf','c','rh')
+27-07-22u5135--update emp1 set resume_path='upload/resume/0.docx',image_path='upload/image/0.jpeg' where id='0'
+27-07-22u3064--INSERT INTO `emp1` (`employee_Name`, `Higher_Qualification`, `marital`, `password`, `gender`, `Address`,email, `contact_number`, `dateofbirth`) values('fzh','10th','married','gcxnj','others','nxg','xfn','vxn','xnvm')
+27-07-22u3474--INSERT INTO `emp1` (`employee_Name`, `Higher_Qualification`, `marital`, `password`, `gender`, `Address`,email, `contact_number`, `dateofbirth`) values('fzh','10th','married','fbxn','others','nxg','xfn','vxn','xnvm')
+27-07-22u5629--INSERT INTO `emp1` (`employee_Name`, `Higher_Qualification`, `marital`, `password`, `gender`, `Address`,email, `contact_number`, `dateofbirth`) values('bj','10th','married',' nk','others','nm ',' mnb cv','bnv','nbj')
+27-07-22u1467--update emp1 set resume_path='upload/resume/.docx',image_path='upload/image/.jpeg' where id=''
+27-07-22u4957--update emp1 set resume_path='upload/resume/.docx',image_path='upload/image/.jpeg' where id=''
+27-07-22u1822--update emp1 set resume_path='upload/resume/3.docx',image_path='upload/image/3.jpg' where id='3'
+27-07-22u2591--Resume uploading error
+27-07-22u6295--Resume uploading error
+27-07-22u1535--Resume uploading error
+27-07-22u6650--Resume uploading error
+27-07-22u5906--Resume uploading error
+27-07-22u7122--Resume uploading error
+27-07-22u1044--INSERT INTO `emp1` (`employee_Name`, `Higher_Qualification`, `marital`, `password`, `gender`, `Address`,email, `contact_number`, `dateofbirth`) values('fxgh','10th','married','c xv','others','dv','jkl','kj'',';jkh')
+27-07-22u3700--INSERT INTO `emp1` (`employee_Name`, `Higher_Qualification`, `marital`, `password`, `gender`, `Address`,email, `contact_number`, `dateofbirth`) values('fxgh','10th','married','cn','others','dv','jkl','kj'',';jkh')
+27-07-22u3720--INSERT INTO `client` (`Name`, `marital`, `password`, `gender`, `Address`,email, `contact_number`, `dateofbirth`) values('','o[k','married','','others','','','','')
+27-07-22u4621-- uploading error
+27-07-22u6798--update client set resume_path='' where id='0'
+27-07-22u2659-- uploading error
+27-07-22u5396--update client set signature_path='' where id='0'
+27-07-22u3379-- uploading error
+27-07-22u6460--update client set signature_path='' where id='0'
+27-07-22u6566-- uploading error
+27-07-22u6884--update client set signature_path='' where id='0'
+27-07-22u8335-- uploading error
+27-07-22u1343--update client set signature_path='' where id='2'
+27-07-22u4088-- uploading error
+27-07-22u3624--update client set signature_path='' where id='2'
+27-07-22u1154-- uploading error
+27-07-22u8950--update client set signature_path='' where id='3'
+27-07-22u2266--update client set signature_path='upload/signature/4.jpeg' where id='4'
+27-07-22u7296-- uploading error
+27-07-22u1108-- uploading error
+27-07-22u4991-- uploading error
+28-07-22u6759--INSERT INTO `temp` (`group_name`,`number_of_members`) values('svfb','6')
+28-07-22u1336--INSERT INTO `temp_loan_group` (`group_name`,`number_of_members`) values('vfb','6')
+28-07-22u9063--INSERT INTO `loangroup` (`group_name`,`number_of_members`) values('-09-09-9-','1')
+28-07-22u7309-- uploading error
+28-07-22u8952-- uploading error
+28-07-22u4766-- uploading error
+28-07-22u4572-- uploading error
+28-07-22u2630-- uploading error
+28-07-22u6215--update client set signature_path='',adhardcard_path=,pancard_path=docs/client/pancard/9.JPG,image_path=docs/client/image/9.jpeg,other_path-docs/client/other/9.jpg where id='9'
+28-07-22u2130-- uploading error
+28-07-22u6964--update client set signature_path='',adhardcard_path=,pancard_path=docs/client/pancard/9.JPG,image_path=docs/client/image/9.jpeg,other_path-docs/client/other/9.jpg where id='9'
+28-07-22u8835-- uploading error
+28-07-22u2189--update client set signature_path='',adhardcard_path='',pancard_path='docs/client/pancard/9.JPG',image_path='docs/client/image/9.jpeg',other_path='docs/client/other/9.jpg' where id='9'
+28-07-22u5642--update client set signature_path='docs/client/signature/9.jpeg',adhardcard_path='',pancard_path='docs/client/pancard/9.JPG',image_path='docs/client/image/9.jpeg',other_path='docs/client/other/9.jpg' where id='9'
+29-07-22u4825-- uploading error
+29-07-22u5929-- uploading error
+30-07-22u7670--INSERT INTO `loangroup` (`group_name`,`number_of_members`) values('1','2','1111','18','qsdd')
+30-07-22u2800--INSERT INTO `loangroup` (`group_name`,`number_of_members`) values('','1','','18','')
+30-07-22u1432--INSERT INTO `client` (`Name`, `marital`, `password`, `gender`, `Address`,email, `contact_number`, `dateofbirth`) values('sdf','10th','married','fsv ','others','fd ','ds','fs','sf')
+30-07-22u9158--INSERT INTO `client` (`Name`, `marital`, `password`, `gender`, `Address`,email, `contact_number`, `dateofbirth`) values('sdf','10th','married','','others','fd ','ds','fs','sf')
+30-07-22u4140--INSERT INTO `client` (`Name`, `marital`, `password`, `gender`, `Address`,email, `contact_number`, `dateofbirth`) values('sdf','10th','married','','others','fd ','ds','fs','sf')
+30-07-22u8464--INSERT INTO `client` (`name`,`Higher_Qualification` `marital`, `password`, `gender`, `Address`,`email`, `contact_number`, `dateofbirth`) values('sdf','10th','married','','others','fd ','ds','fs','sf')
+30-07-22u9288--update client set signature_path='docs/client/signature/23.jpeg',adharcard_path='',pancard_path='docs/client/pancard/23.jpeg',image_path='docs/client/image/23.jpeg',other_path='docs/client/other/23.jpeg' where id='23'
+30-07-22u9077--update client set signature_path='docs/client/signature/23.jpeg',adharcard_path='',pancard_path='docs/client/pancard/23.jpeg',image_path='docs/client/image/23.jpeg',other_path='docs/client/other/23.jpeg' where id='23'
+30-07-22u9994--update client set signature_path='docs/client/signature/23.jpeg',adharcard_path='',pancard_path='docs/client/pancard/23.jpeg',image_path='docs/client/image/23.jpeg',other_path='docs/client/other/23.jpeg' where id='23'
+30-07-22u1761--INSERT INTO `loangroup` (`group_name`,`number_of_members`) values('kn','1','jl','18','jo')
+30-07-22u9285--INSERT INTO `loangroup` (`group_name`,`Loan_Amount`,`Time_Duration`,`loan_status`,`number_of_members`,`info`,`status`,`other`) values('kn','1','jl','18','jo')
+30-07-22u7337--delete from loangroup where group_id=19
+01-08-22u6325-- uploading error
+01-08-22u6793-- uploading error
+01-08-22u3632-- uploading error
+01-08-22u7405-- uploading error
+01-08-22u7961-- uploading error
+01-08-22u9754-- uploading error
+01-08-22u7464-- uploading error
+01-08-22u5186-- uploading error
+01-08-22u1061-- uploading error
+01-08-22u4388-- uploading error
+01-08-22u8665--INSERT INTO `loangroup` (`group_name`,`number_of_members`,`Loan_Amount`,`Time_Duration`,`info`) values('0','1','8090','18','9809','19')
+01-08-22u9941--INSERT INTO `loangroup` ('admin_id',`group_name`,`number_of_members`,`Loan_Amount`,`Time_Duration`,`info`) values('0-9','1','-09','18','-09','19')
+01-08-22u8851--INSERT INTO `temp_groupmember` (`group_id`,`memeber_id`,otp) values(26,17,6849)
+01-08-22u3383--insert INTO groupmember select * FROM temp_groupmember WHERE group_id=31 and status=1
+01-08-22u4510--update groupmember status= WHERE group_id=32 and member_id=16
+01-08-22u6574--update groupmember status=2 WHERE group_id=32 and member_id=16
+01-08-22u2220--update loangroup set status=-3 WHERE group_id=32 
+01-08-22u4357-- uploading error
+01-08-22u5856-- uploading error
+01-08-22u8196-- uploading error
+01-08-22u6359-- uploading error
+01-08-22u3818--update client set signature_path='',adharcard_path='',pancard_path='',image_path='docs/staff/image/23.jpg',other_path='' where id='23'
+01-08-22u1650--insert into member_action_detail(group_id,member_id,info) values(24,16,'REASON')
+02-08-22u2545-- uploading error
+02-08-22u1734-- uploading error
+02-08-22u6814-- uploading error
+02-08-22u6301-- uploading error
+02-08-22u3994--update client set signature_path='',adharcard_path='',pancard_path='',image_path='docs/staff/image/24.heic',other_path='' where id='24'
+02-08-22u4317-- uploading error
+02-08-22u8997-- uploading error
+02-08-22u6619-- uploading error
+02-08-22u8205-- uploading error
+02-08-22u7927-- uploading error
+02-08-22u6133-- uploading error
+02-08-22u9479-- uploading error
+02-08-22u8866-- uploading error
+02-08-22u4714-- uploading error
+02-08-22u9460-- uploading error
+02-08-22u2967-- uploading error
+02-08-22u7777-- uploading error
+02-08-22u8692-- uploading error
+03-08-22u1087--INSERT INTO `client` (`name`,`Higher_Qualification`, `marital`, `password`, `gender`, `Address`,`email`, `contact_number`, `dateofbirth`) values('','','EMPLOYEE')
+03-08-22u3314--INSERT INTO `login`( ) values('EMPLOYEE','xf','xf')
+03-08-22u5333--INSERT INTO `login`(`user_type`,`user_id ) values('EMPLOYEE','1234','1234')
+04-08-22u8311--INSERT INTO `temp_groupmember` (`group_id`,`member_id`,otp,member_type) values(,15,2747,'member')
+04-08-22u3976--INSERT INTO `temp_groupmember` (`group_id`,`member_id`,otp,member_type) values(,15,5165,'member')
+04-08-22u3024--INSERT INTO `temp_groupmember` (`group_id`,`member_id`,otp,member_type) values(,15,8674,'member')
+04-08-22u5580--insert into request_for_undo(group_id,message,admin_id) values(31,UNDO REQUEST MESSAGE,'15') 
+04-08-22u8882-- uploading error
+04-08-22u1005-- uploading error
+04-08-22u8077-- uploading error
+04-08-22u5958-- uploading error
+04-08-22u2314-- uploading error
+05-08-22u1489-- uploading error
+05-08-22u7333-- uploading error
+05-08-22u5915-- uploading error
+05-08-22u1749--update loangroup set doc1='docs/client_docs/doc1/32.jpg',doc2='',doc3='',doc4='',doc5='docs/client_docs/doc5/32.png' where id='32'
+05-08-22u7813--update loangroup set  where id='32'
+05-08-22u1572--update loangroup set path1='docs/client_docs/doc1/32.mp4 where id='32'
+05-08-22u5723-- uploading error
+08-08-22u7689-- uploading error
+08-08-22u2505-- uploading error
+08-08-22u5189-- uploading error
+08-08-22u7433-- uploading error
+08-08-22u3681-- uploading error
+08-08-22u8169-- uploading error
+08-08-22u5637-- uploading error
+08-08-22u5920-- uploading error
+08-08-22u9785-- uploading error
+08-08-22u9820-- uploading error
+08-08-22u5259-- uploading error
+08-08-22u3174-- uploading error
+08-08-22u9894-- uploading error
+08-08-22u9237-- uploading error
+08-08-22u2507-- uploading error
+08-08-22u1693-- uploading error
+08-08-22u9665-- uploading error
+08-08-22u3170-- uploading error
+08-08-22u7477-- uploading error
+08-08-22u2327-- uploading error
+08-08-22u6678-- uploading error
+08-08-22u4774-- uploading error
+08-08-22u2813-- uploading error
+08-08-22u3048-- uploading error
+08-08-22u7012-- uploading error
+08-08-22u1977-- uploading error
+10-08-22u2619--INSERT INTO `loangroup` (group_name,number_of_members,Loan_Amount,Time_Duration,info,admin_id) values('test1','4','10000','24','cvbmdilrgsl'','15')
+10-08-22u4573--INSERT INTO `loangroup` (group_name,number_of_members,Loan_Amount,Time_Duration,info,admin_id) values('test1','4','10000','24','cvbmdilrgsl'','15')
+10-08-22u1961--INSERT INTO `loangroup` (group_name,number_of_members,Loan_Amount,Time_Duration,info,admin_id) values('test1','4','10000','24','cvbmdilrgsl'','15')
+11-08-22u9223--update loangroup set  where id='32'
+11-08-22u9953--update loangroup set  where id='32'
+11-08-22u7532--update loangroup set  where id='32'
+11-08-22u5925--update loangroup set  where id='32'
+11-08-22u6355--update loangroup set  where id='32'
+11-08-22u6865--update loangroup set  where id='32'
+11-08-22u1054--update loangroup set  where id='32'
+11-08-22u1171-- uploading error
+11-08-22u5809-- uploading error
+11-08-22u3247-- uploading error
+11-08-22u4971-- uploading error
+11-08-22u9646-- uploading error
+11-08-22u3527-- uploading error
+11-08-22u1141-- uploading error
+11-08-22u1085-- uploading error
+11-08-22u3898-- uploading error
+11-08-22u6872-- uploading error
+11-08-22u3722-- uploading error
+11-08-22u5269-- uploading error
+11-08-22u8943-- uploading error
+11-08-22u7217-- uploading error
+11-08-22u6294--update loangroup set  where id='40'
+11-08-22u8116--update loangroup set  where id='41'
+11-08-22u6325--insert into request_for_undo(group_id,message,admin_id) values(41,'UNDO REQUEST MESSAGE',) 
+11-08-22u4734-- uploading error
+11-08-22u8618-- uploading error
+11-08-22u5870-- uploading error
+11-08-22u4204-- uploading error
+11-08-22u3219--update loangroup set  where id='43'
+11-08-22u5507--insert into request_for_undo(group_id,message,admin_id) values(43,'UNDO REQUEST MESSAGEk,l;',) 
+11-08-22u5981--update loangroup set  where id='45'
+11-08-22u2213--update loangroup set  where id='46'
+12-08-22u6634--insert into request_for_undo(group_id,message,admin_id) values(47,'UNDO REQUEST 1',) 
+12-08-22u3516--INSERT INTO `loangroup` (group_name,number_of_members,Loan_Amount,Time_Duration,info,admin_id) values('j','8','kl;k','18','ko;'','15')
+12-08-22u4121--INSERT INTO `loangroup` (group_name,number_of_members,Loan_Amount,Time_Duration,info,admin_id) values('j','8','1000000','18','ko;'','15')
+16-08-22u1141-- uploading error
+16-08-22u6756-- uploading error
+16-08-22u5354-- uploading error
+16-08-22u1203-- uploading error
+16-08-22u9656-- uploading error
+16-08-22u2931--INSERT INTO `client` (`name`, `marital`, `password`, `gender`,`bank_name`,`account_number`,`ifsc_code`, `Address`,`city`,`village`,`email`, `contact_number`, `dateofbirth`) values('test case','married','mkl;'jkm','others','coop','123456678','432t','kl''k'','xf','fg','l','l','';kl')
+16-08-22u3859-- uploading error
+17-08-22u8090-- uploading error
+17-08-22u7681-- uploading error
+17-08-22u2861-- uploading error
+17-08-22u7950-- uploading error
+17-08-22u9965-- uploading error
+17-08-22u2033--
+17-08-22u7684--
+17-08-22u8599--
+17-08-22u2639--
+17-08-22u8626--
+17-08-22u7840--
+17-08-22u6184--
+17-08-22u7243--
+17-08-22u4509--

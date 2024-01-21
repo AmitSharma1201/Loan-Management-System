@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <script src="jquery.min.js"></script>
+    <script src="bootstrap.min.js"></script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>template</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-2"><img src="task_logo.jpeg" alt="logo" class="img-responsive logo"></div>
+        </div>
+        <div class="row ">
+            <div class="col-md-12">
+                <div class="well well-lg">
+                    <div class="row ">
+                        <div class="col-md-1">home</div>
+                        <div class="col-md-1">contact</div>
+                        <div class="col-md-1">about us</div>
+                        <div class="col-md-1 pull-right"><a data-target="#login" data-toggle="modal">login</a> </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-3">
+                <div class="panel panel-info">
+                    <div class="panel-heading"> about team</div>
+                    <div class="panel-body minheight">team members
+                        <img src="flower.jpg" class="img-responsive img-rounded" alt="pic"><br>
+                        <img src="flower.jpg" class="img-responsive img-circle" alt="pic">
+
+                    </div>
+                    <div class="panel-footer">panel footer</div>
+
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="panel panel-info">
+                    <div class="panel-heading"> about us</div>
+
+                    <div class="panel-body minheight">
+
+
+                    </div>
+                    <div class="panel-footer">panel footer</div>
+
+
+
+                </div>
+
+
+            </div>
+            <div class="col-md-3">
+                <div class="panel panel-info">
+                    <div class="panel-heading">add panel heading</div>
+                    <div class="panel-body minheight">panel body
+                        <img src="anime.png" class="img-responsive" alt="pic">
+                        <br>
+                        <img src="anime.png" class="img-responsive img-thumbnail" alt="pic">
+                    </div>
+                    <div class="panel-footer">panel footer</div>
+
+
+
+                </div>
+
+            </div>
+            <div class="modal" id="login" role="modal">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">model heading</div>
+                        <div class="modal-body">
+                            <div class="form-group">
+                                <label class="col-md-3">enter you name</label>
+                                <div class="col-md-5">
+                                    <input type="text" id="uname" name="uname" class="form-control">
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label class="col-md-3">enter you email</label>
+                                <div class="col-md-5">
+                                    <input type="email" id="mail" name="mail" class="form-control">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-md-3">enter you dob</label>
+                                <div class="col-md-5">
+                                    <input type="datetime" id="dob" name="dob" class="form-control">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-md-3">create password</label>
+                                <div class="col-md-5">
+                                    <input type="password" id="pass" name="pass" class="form-control" minlength="5" maxlength="8" required>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-md-12">
+                                    <div class=" btn-lg">
+                                        <input type="submit" class="btn btn-primary">
+                                        <input type="reset" class="btn btn-warning" disabled>
+                                        <!--    <a href="" class="btn btn-primary">anchor</a></div>-->
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="modal-footer">
+                                <a class="close" data-dismiss="modal">&times;</a>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="panel panel-primary">
+                        <div class="panel-heading"> message</div>
+                        <div class="panel-body minheight">
+                            <div class="input-group mb-3">
+                                <span class="input-group-text" id="basic-addon1">@</span>
+                                <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+                            </div>
+
+                            <div class="input-group">
+                                <span class="input-group-text">message</span>
+                                <textarea class="form-control" aria-label="With textarea"></textarea>
+                            </div>
+                            <a class="btn btn-primary">submit</a>
+
+                        </div>
+                        <div class="panel-footer"></div>
+
+                    </div>
+
+                </div>
+            </div>
+
+
+
+        </div>
+
+    </div>
+</body>
+
+</html>
